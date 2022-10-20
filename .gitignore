@@ -1,0 +1,5 @@
+1 .idea
+2 .vs code
+3
+4 venv
+5 **/*.pyc
